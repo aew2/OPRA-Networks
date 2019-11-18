@@ -13,6 +13,9 @@ PACKAGE DEPENDENCIES:
 This code uses a few packages that need to be installed prior to use.  You can do this in R with the following lines of code:
 
 install.packages('tidyverse')
+
 install.packages('msm')
+
 install.packages('itertools')
+
 install.packages('miscTools')
