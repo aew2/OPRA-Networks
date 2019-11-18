@@ -5,6 +5,7 @@
 
 source('utils.R')
 require(itertools)
+require(tidyverse)
 
 ###USER PARAMETERS -- ONLY CHANGE THESE###
 datapath <- './data/processed'

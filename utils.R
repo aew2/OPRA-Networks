@@ -3,7 +3,7 @@
 #Date Created: 17 Feb 2018
 #Date Modified: 17 Feb 2018
 
-require(stringr)
+require(tidyverse)
 require(msm)
 require(miscTools)
 
